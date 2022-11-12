@@ -11,3 +11,6 @@ git push -u origin main
 git remote add origin https://github.com/jcicaro/jc-icaro-portfolio.git
 git branch -M main
 git push -u origin main
+
+
+https://medium.com/quick-code/nextjs-with-typescript-integration-and-example-dd2e13da668b
