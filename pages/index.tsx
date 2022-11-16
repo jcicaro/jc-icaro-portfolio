@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="description" content="ServiceNow Developer" />
       </Head>
 
-      <h1>Hello, Next!</h1>
+      <h1 className='text-3xl text-green-600 p-2'>Hello, Next!!</h1>
     </div>
   )
 }

@@ -1,5 +1,8 @@
 npm run dev
 
+Vercel deployment:
+https://jc-icaro-portfolio.vercel.app/
+
 echo "# jc-icaro-portfolio" >> README.md
 git init
 git add README.md
@@ -14,3 +17,7 @@ git push -u origin main
 
 
 https://medium.com/quick-code/nextjs-with-typescript-integration-and-example-dd2e13da668b
+
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init -p
+
