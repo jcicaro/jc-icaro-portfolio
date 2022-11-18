@@ -16,8 +16,14 @@ git branch -M main
 git push -u origin main
 
 
+export default function Button() {
+    return <div>Hello, button!</div>;
+}
+
+
 https://medium.com/quick-code/nextjs-with-typescript-integration-and-example-dd2e13da668b
 
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init -p
 
+https://www.tailwind-kit.com/components/buttons
