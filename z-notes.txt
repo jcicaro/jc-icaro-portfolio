@@ -27,3 +27,4 @@ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init -p
 
 https://www.tailwind-kit.com/components/buttons
+
